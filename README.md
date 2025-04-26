@@ -9,8 +9,8 @@
 <li> :computer: Coding is my hobby💻, but mastering new languages is my passion,every line I write builds the future I dream of. <br>
 <li> :globe_with_meridians: Coding is my craft; learning new technologies is my endless quest.<br>
 <li> :octocat: Fullstack Developer .
+<li> 📫 Reach out to me **bismaydey001@gmail.com**</li>
 <b>
-  - 📫 Reach out to me **debarjunpal134@gmail.com**
 <hr>
 
 ## :rocket: My Portfolio
