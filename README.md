@@ -1,22 +1,25 @@
 <!-- @format -->
 
-## Hey There :wave: It's Bismay Dey :fire:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BismayDey&label=🕵️&color=blue" alt="bismay dey" />
+  ## Hey There :wave: It's <span style="font-size: 30px; font-weight: bold; color: #f39c12;">Bismay Dey</span> :fire:
 </p>
+  <img src="https://komarev.com/ghpvc/?username=BismayDey&label=🕵️&color=blue" alt="bismay dey" />
 <hr>
 
 <p align="center">
   <b>
     <li> :house: Hi, I am <span style="font-size: 24px; font-weight: bold;">Bismay Dey</span> from Kolkata, India. </li>
     <li> :books: Currently pursuing BTech in CSE (AI & ML) from Techno Main, Salt Lake. </li>
-    <li> :computer: Coding is my hobby, and every line of code I write builds the future I dream of. </li>
-    <li> :globe_with_meridians: Coding is my craft; learning new technologies is my endless quest. </li>
-    <li> :octocat: Fullstack Developer. </li>
-    <li> 🏆 Winner of multiple hackathons & always active in new challenges! </li>
+    <li> :computer: Coding is my passion. Every line of code I write brings me closer to building the future I dream of. </li>
+    <li> :globe_with_meridians: Learning new technologies and crafting solutions is my never-ending journey. </li>
+    <li> :octocat: Fullstack Developer with a love for tackling complex challenges. </li>
+    <li> 🏆 Winner of multiple hackathons and always seeking new coding adventures! </li>
     <li> 📫 Reach out to me: <a href="mailto:bismaydey001@gmail.com">bismaydey001@gmail.com</a> </li>
   </b>
 </p>
+
+<h2 align="left">🚀 Tech Stack</h2>
+
 
 <h2 align="left">🚀 Tech Stack</h2>
 
