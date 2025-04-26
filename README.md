@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>
-    <li> :house: Hi, I am <span style="font-size: 24px; font-weight: bold;">Bismay Dey</span> from Kolkata, India. </li>
+    <li> :house: Hi, I am <span style="font-size: 24px; font-weight: bold; color: #3498db;">Bismay Dey</span> from Kolkata, India. </li>
     <li> :books: Currently pursuing BTech in CSE (AI & ML) from Techno Main, Salt Lake. </li>
     <li> :computer: Coding is my passion. Every line of code I write brings me closer to building the future I dream of. </li>
     <li> :globe_with_meridians: Learning new technologies and crafting solutions is my never-ending journey. </li>
