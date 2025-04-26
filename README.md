@@ -11,7 +11,6 @@
 <li> :octocat: Fullstack Developer .<br>
 <li>📫 Reach out to me <a href="bismaydey001@gmail.com">bismaydey001@gmail.com</a>
  <br> <h2 align="left">🚀 Tech Stack</h2>
- <br>
 <p>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50" style="margin-right:15px;"/>
