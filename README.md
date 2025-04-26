@@ -10,9 +10,7 @@
 <li> :globe_with_meridians: Coding is my craft; learning new technologies is my endless quest.<br>
 <li> :octocat: Fullstack Developer .<br>
 <li>📫 Reach out to me <a href="bismaydey001@gmail.com">bismaydey001@gmail.com</a>
- <br> <h3 align="left">Languages and Tools:</h3>
-## 🚀 Tech Stack
-
+ <br> <h3 align="left">🚀 Tech Stac</h3>
 ---
 
 <p>
@@ -43,7 +41,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" style="margin-right:15px;"/>
   </a>
-  <br><br>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" style="margin-right:15px;"/>
   </a>
