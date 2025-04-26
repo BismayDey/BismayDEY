@@ -1,8 +1,6 @@
 <!-- @format -->
 
-<p align="center">
-  ## Hey There :wave: It's <span style="font-size: 30px; font-weight: bold; color: #f39c12;">Bismay Dey</span> :fire:
-</p>
+## Hey There :wave: It's Bismay Dey :fire:
   <img src="https://komarev.com/ghpvc/?username=BismayDey&label=🕵️&color=blue" alt="bismay dey" />
 <hr>
 
