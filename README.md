@@ -1,6 +1,6 @@
 <!-- @format -->
 
-## Hey There :wave: It's Biprodeep Bose :fire:
+## Hey There :wave: It's Bismay Dey :fire:
 <img src="https://komarev.com/ghpvc/?username=BismayDey&label=🕵️&color=blue" alt="bismay dey" />
 <hr>
 <b>
