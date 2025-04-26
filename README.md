@@ -6,8 +6,8 @@
 <b>
 <li> :house: Hi , I am Bismay Dey from Kolkata , India . <br>
 <li> :books: Currently pursing BTech in CSE(AI & ML) from Techno Main,Salt Lake . <br>
-<li> :computer: Coding is my hobby💻, but mastering new languages is my passion,every line I write builds the future I dream of🔥. <br>
-<li> :globe_with_meridians: Coding is my craft; learning new technologies is my endless quest👾.<br>
+<li> :computer: Coding is my hobby💻, but mastering new languages is my passion,every line I write builds the future I dream of. <br>
+<li> :globe_with_meridians: Coding is my craft; learning new technologies is my endless quest.<br>
 <li> :octocat: Fullstack Developer .
 <b>
 <hr>
