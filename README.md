@@ -11,42 +11,57 @@
 <li> :octocat: Fullstack Developer .<br>
 <li>📫 Reach out to me <a href="bismaydey001@gmail.com">bismaydey001@gmail.com</a>
  <br> <h3 align="left">Languages and Tools:</h3>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
   </a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=threejs" alt="threejs" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="python" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/>
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="java" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c" alt="c" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="react" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="40" height="40"/>
   </a>
 </p>
 
