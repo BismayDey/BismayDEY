@@ -39,6 +39,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" style="margin-right:15px;"/>
   </a>
+ <br>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" style="margin-right:15px;"/>
   </a>
