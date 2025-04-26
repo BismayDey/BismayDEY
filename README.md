@@ -6,7 +6,7 @@
 <b>
 <li> :house: Hi , I am Bismay Dey from Kolkata , India . <br>
 <li> :books: Currently pursing BTech in CSE(AI & ML) from Techno Main,Salt Lake . <br>
-<li> :computer: Coding is my hobby💻, but mastering new languages is my passion,every line I write builds the future I dream of. <br>
+<li> :computer: Coding is my hobby,every code I write builds the future I dream of. <br>
 <li> :globe_with_meridians: Coding is my craft; learning new technologies is my endless quest.<br>
 <li> :octocat: Fullstack Developer .<br>
 <li>📫 Reach out to me <a href="bismaydey001@gmail.com">bismaydey001@gmail.com</a>
@@ -39,6 +39,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
   </a>
+  <br/>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
   </a>
@@ -54,8 +55,11 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
   </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
@@ -64,6 +68,7 @@
     <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="40" height="40"/>
   </a>
 </p>
+
 
 <b>
 <hr>
