@@ -10,6 +10,7 @@
 <li> :globe_with_meridians: Coding is my craft; learning new technologies is my endless quest.<br>
 <li> :octocat: Fullstack Developer .
 <b>
+  - 📫 Reach out to me **debarjunpal134@gmail.com**
 <hr>
 
 ## :rocket: My Portfolio
