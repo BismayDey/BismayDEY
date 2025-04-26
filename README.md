@@ -16,7 +16,7 @@
   </b>
 </p>
 
- <br> <h2 align="left">🚀 Tech Stack</h2>
+ <br> <h2 align="left">💻 Tech Stack</h2>
 <p>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50" style="margin-right:15px;"/>
